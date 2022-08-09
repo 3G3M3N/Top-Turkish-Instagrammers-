@@ -3,6 +3,8 @@ Hello, used this dataset from https://www.kaggle.com/datasets/syedjaferk/top-100
 
 Turkey have 18 Influencer in this list. So this mean Turkish Instagrammers are on the %2.3 percent.
 
+*********************************************************************************************************************************************
+
 handemiyy	        75	RANK Cinema & Actors/actresses	28.5M	Turkey	1.4M	1.9M
 
 m10_official	    178	RANK Sports with a ball	24.5M	Turkey	617.1K	866.6K
@@ -38,6 +40,8 @@ elcinsangu	      936 RANK Cinema & Actors/actressesLifestyle	8.5M	Turkey	220K	26
 acunilicali	      941 RANK Cinema & Actors/actresses	13.7M	Turkey	134.3K	168.3K
 
 hadise	          963	RANK MusicShows	13.8M	Turkey	133.2K	155.5K
+
+*********************************************************************************************************************************************
 
 Turkish Instagrammers are generally using category is Cinema & Actors/actresses. 
 
