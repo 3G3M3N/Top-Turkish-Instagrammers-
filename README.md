@@ -1,7 +1,9 @@
 # Top-Turkish-Instagrammers-
 Hello, used this dataset from https://www.kaggle.com/datasets/syedjaferk/top-1000-instagrammers-world-cleaned.
 
-Turkey have 18 Influencer in this list. So this mean Turkish Instagrammers are on the %2.3 percent.
+Turkey have 18 Influencer in this list. 
+
+So this mean Turkish Instagrammers are on the %2.3 percent.
 
 *********************************************************************************************************************************************
 
